@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curd/static/css/main.e68bd8d4.css",
+    "main.js": "/Curd/static/js/main.8824ce84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Curd/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Curd/index.html",
+    "main.e68bd8d4.css.map": "/Curd/static/css/main.e68bd8d4.css.map",
+    "main.8824ce84.js.map": "/Curd/static/js/main.8824ce84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Curd/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e68bd8d4.css",
+    "static/js/main.8824ce84.js"
+  ]
+}
